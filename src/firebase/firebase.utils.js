@@ -3,7 +3,7 @@ import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
 
 const config = {
-  apiKey: 'AIzaSyATNRIHX7Alx6C9QgxYTUa4IhbMWVkiSag',
+  apiKey: 'A###########MWVkiSag',
   authDomain: 'crown-db-74ea1.firebaseapp.com',
   projectId: 'crown-db-74ea1',
   storageBucket: 'crown-db-74ea1.appspot.com',
